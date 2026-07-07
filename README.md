@@ -109,7 +109,14 @@ bash
 
 
 # 📊 Sample Output
+ TXT File
+![TXT Test](Screenshots/output_txt.png)
 
+ PDF File
+![PDF Test](Screenshots/output_pdf.png)
+
+ JPG File
+![JPG Test](Screenshots/output_jpg.png)
 
 
 
