@@ -1,0 +1,22 @@
+# Executable files
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Generated compressed file
+compressed.huff
+
+# Decompressed output files
+output.txt
+output.pdf
+output.jpg
+output.png
+
+# VS Code settings
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
